@@ -1,0 +1,20 @@
+{
+  "system": "Inventory Management",
+  "actors": [
+    {
+      "name": "User",
+      "use_cases": [
+        "Add Item",
+        "Remove Item",
+        "View Inventory"
+      ]
+    },
+    {
+      "name": "Administrator",
+      "use_cases": [
+        "Manage Inventory",
+        "Generate Accounting Report"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -Wall -Wextra -pedantic -shared -Wl,-soname,librule_cpp_style.so -o librule_cpp_style.so CMakeFiles/rule_cpp_style.dir/plugins/rule_cpp_style.cpp.o 

@@ -1,0 +1,16 @@
+{
+  "classes": [
+    {
+      "name": "Item",
+      "attributes": ["id: int", "name: string", "quantity: int"],
+      "methods": ["Add()", "Remove()"],
+      "relationships": ["Inventory"]
+    },
+    {
+      "name": "Inventory",
+      "attributes": ["items: List<Item>"],
+      "methods": ["AddItem()", "RemoveItem()", "ViewItems()"],
+      "relationships": ["Item"]
+    }
+  ]
+}

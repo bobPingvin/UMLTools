@@ -1,0 +1,10 @@
+{
+  "classes": [
+    {
+      "name": "EmptyEntity",
+      "attributes": [],
+      "methods": [],
+      "relationships": []
+    }
+  ]
+}

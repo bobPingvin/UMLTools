@@ -1,0 +1,5 @@
+/home/student/uml-tool/build/CMakeFiles/uml-tool.dir
+/home/student/uml-tool/build/CMakeFiles/rule_cpp_style.dir
+/home/student/uml-tool/build/CMakeFiles/rule_doc_comments.dir
+/home/student/uml-tool/build/CMakeFiles/edit_cache.dir
+/home/student/uml-tool/build/CMakeFiles/rebuild_cache.dir

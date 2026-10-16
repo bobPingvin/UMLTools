@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -Wall -Wextra -pedantic -shared -Wl,-soname,librule_doc_comments.so -o librule_doc_comments.so CMakeFiles/rule_doc_comments.dir/plugins/rule_doc_comments.cpp.o 
